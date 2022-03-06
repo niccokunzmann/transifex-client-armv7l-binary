@@ -11,6 +11,7 @@ armv7l
 You can download the tx file if you are desparate and cannot build it yourself.
 
 ```
+mkdir -p ~/.local/bin
 cd ~/.local/bin
 wget -O tx 'https://github.com/niccokunzmann/transifex-client-armv7l-binary/blob/master/tx?raw=true'
 chmod +x tx
