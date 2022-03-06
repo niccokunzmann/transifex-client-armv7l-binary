@@ -1,6 +1,6 @@
-# Transifex Client for Android and Raspberry Pi
+# Transifex CLI for Android and Raspberry Pi
 
-This is an informal build of the [Transifex Client](https://github.com/transifex/transifex-client/) for Raspberry Pi and Android Phones.
+This is an informal build of the [Transifex CLI](https://github.com/transifex/cli) for Raspberry Pi and Android Phones.
 This is the architecture it works on:
 
 ```
